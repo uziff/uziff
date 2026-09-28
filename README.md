@@ -7,7 +7,6 @@
 Im still working on this profile thingy, but in the meanwhile, check out {[my website](https://haxs.dev/)}!<br>
 Also check out my main projects on github!<br><br>
 ## [Hax MultiTool](https://github.com/Hax-MultiTool)
-## [Sky: Across](https://github.com/Sky-Across/)
 ## [ChromaWaves](https://github.com/ChromaWaves-sp2/)
 ## [Monochroma](https://github.com/monochroma-sp3/)
 
